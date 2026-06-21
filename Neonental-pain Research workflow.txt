@@ -1,0 +1,21 @@
+PICS dataset (now)
+      ↓
+Build ECG cleaning pipeline
+Build R-peak detection
+Extract HRV features
+Validate numbers make sense
+Write reusable preprocess.py
+      ↓
+UCL dataset arrives (2–3 days)
+      ↓
+Run same pipeline on 112 neonates
+Get features for: heel lance + sham + auditory conditions
+Train pain classifier (pain vs no-pain)
+      ↓
+USF-MNPAD-I arrives
+      ↓
+Validate classifier on second independent dataset
+      ↓
+Apply SHAP — which features matter most
+      ↓
+Paper
