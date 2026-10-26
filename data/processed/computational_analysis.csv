@@ -1,0 +1,12 @@
+parameter,value
+samples,295.0
+features,69.0
+unique_subjects,105.0
+xgboost_estimators,200.0
+xgboost_max_depth,4.0
+xgboost_learning_rate,0.05
+mean_loso_training_time_sec,0.23500339578926
+median_loso_training_time_sec,0.21330789999774424
+mean_loso_inference_time_sec,0.0022538063156197926
+median_loso_inference_time_sec,0.002038199992966838
+final_model_training_time_sec,0.2383756999988691
