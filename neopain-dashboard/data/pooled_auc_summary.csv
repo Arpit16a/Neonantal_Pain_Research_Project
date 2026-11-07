@@ -1,0 +1,3 @@
+dataset,subjects,mean_subject_auc,pooled_auc
+Broad / Combined,53,0.8490566037735849,0.8059475806451614
+PIPP-confirmed,28,0.9285714285714286,0.8101023017902813
